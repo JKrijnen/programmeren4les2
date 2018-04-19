@@ -14,6 +14,6 @@ http.createServer(function (request, response){
     };
     response.write(JSON.stringify(result));
     response.end();
-}).listen(3000);
+}).listen(port);
 
 console.log('De server luistert op port 3000');
