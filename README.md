@@ -2,6 +2,6 @@
 
 Eerste server
 
-##Gebruik
--ga naar de juiste folder
--voer server-1-text.js uit
+## Gebruik
+- ga naar de juiste folder
+- voer server-1-text.js uit
